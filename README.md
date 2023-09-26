@@ -18,12 +18,12 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] 👋 Debug and fix navigation to Hello World activity
-- [ ] 4️⃣ Debug and fix Number Sum (2 + 2) activity
-- [ ] 📅 Debug and fix Current Day activity 
-- [ ] 🌈 Debug and fix behavior of Random Color activity
-- [ ] 🗒️ Debug and fix Print List activity
-- [ ] 💯 Debug and fix Favorite Number activity
+- [x] 👋 Debug and fix navigation to Hello World activity
+- [x] 4️⃣ Debug and fix Number Sum (2 + 2) activity
+- [x] 📅 Debug and fix Current Day activity 
+- [x] 🌈 Debug and fix behavior of Random Color activity
+- [x] 🗒️ Debug and fix Print List activity
+- [x] 💯 Debug and fix Favorite Number activity
 
 The following STRETCH features are implemented:
 
@@ -37,9 +37,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/AxxggZZ.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **peek**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
